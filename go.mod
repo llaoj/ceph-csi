@@ -40,7 +40,7 @@ require (
 	//
 	// when updating k8s.io/kubernetes, make sure to update the replace section too
 	//
-	k8s.io/kubernetes v1.26.1
+	k8s.io/kubernetes v1.26.2
 	k8s.io/mount-utils v0.26.1
 	k8s.io/pod-security-admission v0.0.0
 	k8s.io/utils v0.0.0-20221128185143-99ec85e7a448
